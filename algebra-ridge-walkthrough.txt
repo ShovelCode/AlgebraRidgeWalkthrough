@@ -31,8 +31,11 @@ Chapter 1
  Go to the university.
  first big cheesey battle sequence:
  4 9 12 10 2 5 15 25 8 30
+ second battle:
+ 18 37 54 32 26 34 48 11 72 49 
 Chapter 2
-	more stuff
+	third battle:
+	8 15 20 9 21 35 27 49 36 72
 Chapter 3
 	Get the achievement by beating up the 
 	burger
