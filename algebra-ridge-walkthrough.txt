@@ -37,10 +37,19 @@ Chapter 2
 	third battle:
 	8 15 20 9 21 35 27 49 36 72
 Chapter 3
+	fourth battle:
+	2 3 8 15 2 5 14 11 10 5
+	
 	Get the achievement by beating up the 
 	burger
+	fifth battle:
+	2 20 45 88 1 42 48 31 4 86
+	click battle:
+	keep clicking, here you can win the 200 click
+	achievement
 Chapter 4
 	Final boss sequence:
 	24, 0, 3, 20, 39, 48, 10, 50, 40, 14
+	
 	
 	
