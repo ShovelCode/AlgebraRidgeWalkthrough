@@ -1,3 +1,5 @@
+** Needs to be tested again ***
+
 Algebra Ridge is a cutting edge edutainment 
 game from Drealengo. It is about doing mental
 arithmetic fast and while this seems trite
